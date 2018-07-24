@@ -1527,7 +1527,7 @@ header .logo a {
 .about-content {
 	position: relative;
 	text-align: left;
-	max-width: 850px;
+	max-width: 550px;
 	margin-bottom: 3.6rem;
 }
 .about-content h3 {
@@ -2514,7 +2514,7 @@ footer .row {
 	max-width: 900px;
 }
 footer .social {
-	text-align: right;
+	text-align: center;
 }
 footer .footer-social {
 	display: inline-block;
